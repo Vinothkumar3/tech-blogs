@@ -1,6 +1,5 @@
 import React from 'react'
 import ima from '../assets/techup.png';
-import { IoLogoYoutube } from "react-icons/io5"
 import { useNavigate } from 'react-router-dom';
 
 function Header() {
